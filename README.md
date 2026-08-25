@@ -47,7 +47,6 @@ Refunded,
 Created a Top 5 States by Sales bar chart to identify high-performing regions.
 Developed Age Group vs. Gender analysis to understand purchasing behavior across different customer segments.
 Created Sales Channel analysis to compare performance across platforms such as Amazon and Flipkart.
-Used interactive dashboard elements to make data exploration simple and user-friendly.
 
 Dashboard Analysis
 -
